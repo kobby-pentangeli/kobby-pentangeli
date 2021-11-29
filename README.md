@@ -20,12 +20,12 @@ In recent months, I've been writing smart contracts in Rust for NEAR, Solana, an
 My tech stack looks like this:
 
 - Rust
+- Go
 - TypeScript
 - WebAssembly
 - GraphQL
 - Docker
 - Mustache
-- Go
 - C/C++ (haven't used it in a while)
 
 ## Find me around the web 🌎 <a><img align="left" width="150" height="150" src="./media.gif"></a>
