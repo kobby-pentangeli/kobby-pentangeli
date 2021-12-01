@@ -26,7 +26,7 @@ My tech stack looks like this:
 - GraphQL
 - Docker
 - Mustache
-- C/C++ (haven't used it in a while)
+- C/C++
 
 ## Find me around the web 🌎 <a><img align="left" width="150" height="150" src="./media.gif"></a>
 
