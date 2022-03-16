@@ -2,7 +2,7 @@
 
 I began flirting with **C/C++** back in 2011 when I was a sophomore in college.
 
-In September of 2015, I founded **Komaat Engineering LLC**, to provide enterprise software solutions to companies, and to install medical equipment such as MRI, CT, X-Ray, etc for hospitals in Ghana and Nigeria.
+In September of 2015, I founded **Komaat Engineering LLC**, to provide enterprise software solutions to companies, and to install medical equipment such as MRI, CT, X-Ray, etc for hospitals.
 
 In December of 2016, I heard about **Rust**... I learned the language, folded Komaat, and began my career as a full-time Rust Engineer.
 
@@ -12,6 +12,7 @@ By mid 2017, I had begun using Rust professionally, helping two clients build co
 
 In recent months, I've been writing smart contracts in Rust for NEAR, Solana, and Cosmos blockchains. Other interesting projects I've worked on include:
 
+- pure Rust MessagePack implementation
 - a blockchain-agnostic, language-agnostic Web3 SDK
 - NFT-powered social media built on Solana
 - launch-pools/staking protocols on Ethereum
@@ -20,9 +21,9 @@ In recent months, I've been writing smart contracts in Rust for NEAR, Solana, an
 My tech stack looks like this:
 
 - Rust
-- Go
-- TypeScript
 - WebAssembly
+- Substrate
+- JavaScript
 - GraphQL
 - Docker
 - Mustache
@@ -30,6 +31,4 @@ My tech stack looks like this:
 
 ## Find me around the web 🌎 <a><img align="left" width="150" height="150" src="./media.gif"></a>
 
-- Send me an email - <a href="kobbypentangeli@gmail.com">kobbypentangeli@gmail.com</a> ✍🏾..📫
-- Let's connect on <a href="https://www.linkedin.com/in/kobbypentangeli/"> LinkedIn</a> ⚡
 - Twitter - [@donpentangeli](https://twitter.com/donpentangeli)
