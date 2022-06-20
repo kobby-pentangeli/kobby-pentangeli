@@ -9,6 +9,7 @@ Below is how my tech stack looks like:
 - JavaScript/TypeScript
 - WebAssembly
 - Postgresql
+- Substrate
 - GraphQL
 - Docker/Kubernetes
 - Mustache
