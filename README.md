@@ -4,13 +4,16 @@
 
 🦀 An open-source developer with a deep passion for **Rust** and **low-level** programming (compilers, cryptographic primitives, WebAssembly, network programming).
 
-𓋹 Lead collaborator on [**@maat**](https://github.com/maatlabs/maat)
+𓋹 Creator of the [**Maat**](https://github.com/maatlabs/maat) programming language.
+
+📜 I also build and maintain [**ZK Rosetta**](https://github.com/maatlabs/zk-rosetta) catalog and harness.
 
 <br>
 
-#### 🌀 Projects
+### 🌀 Projects
 
 - [x] [maat](https://github.com/maatlabs/maat) --- Turing-complete programming language for writing zero-knowledge proofs (ZKPs). Backed by the Winterfell STARK prover/verifier.
+- [x] [zk-rosetta](https://github.com/maatlabs/zk-rosetta) --- A cross-ecosystem catalog and harness of zero-knowledge-related protocol proposals (BIPs, EIPs/ERCs, SIMDs, etc.).
 - [x] [lc3box](https://github.com/kobby-pentangeli/lc3box) --- Assembler, disassembler, virtual machine, and compiler (planned) for the [_Little Computer 3_ (LC-3)](https://en.wikipedia.org/wiki/Little_Computer_3) assembly language and instruction-set architecture.
 - [x] [chaum-pedersen](https://github.com/kobby-pentangeli/chaum-pedersen-zkp) --- Rust implementation of the Chaum-Pedersen zero-knowledge cryptographic protocol.
 - [x] [zescrow](https://github.com/kobby-pentangeli/zescrow) --- Trust-minimized, chain-agnostic implementation of an escrow program using the RISC Zero zkVM as the zero-knowledge prover/verifier.
