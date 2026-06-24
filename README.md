@@ -14,7 +14,7 @@
 
 - [x] [maat](https://github.com/maatlabs/maat) --- Turing-complete programming language for writing zero-knowledge proofs (ZKPs). Backed by the Winterfell STARK prover/verifier.
 - [x] [zk-rosetta](https://github.com/maatlabs/zk-rosetta) --- A cross-ecosystem catalog and harness of zero-knowledge-related protocol proposals (BIPs, EIPs/ERCs, SIMDs, etc.).
-- [x] [lc3box](https://github.com/kobby-pentangeli/lc3box) --- Assembler, disassembler, virtual machine, and compiler (planned) for the [_Little Computer 3_ (LC-3)](https://en.wikipedia.org/wiki/Little_Computer_3) assembly language and instruction-set architecture.
+- [x] [lc3box](https://github.com/kobby-pentangeli/lc3box) --- Assembler, disassembler, virtual machine, debugger, and compiler for the [_Little Computer 3_ (LC-3)](https://en.wikipedia.org/wiki/Little_Computer_3) assembly language and instruction-set architecture.
 - [x] [chaum-pedersen](https://github.com/kobby-pentangeli/chaum-pedersen-zkp) --- Rust implementation of the Chaum-Pedersen zero-knowledge cryptographic protocol.
 - [x] [zescrow](https://github.com/kobby-pentangeli/zescrow) --- Trust-minimized, chain-agnostic implementation of an escrow program using the RISC Zero zkVM as the zero-knowledge prover/verifier.
 - [x] [grapevine](https://github.com/kobby-pentangeli/grapevine) --- A modern, asynchronous peer-to-peer gossip protocol library and application.
