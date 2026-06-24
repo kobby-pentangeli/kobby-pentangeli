@@ -2,7 +2,7 @@
 
 👾 I'm **Kobby**.
 
-🦀 An open-source developer with a deep passion for **Rust** and **low-level** programming (compilers, cryptographic primitives, WebAssembly, network programming).
+🦀 An open-source software engineer with a deep passion for Rust and low-level programming (compilers, cryptographic primitives, WebAssembly, and distributed systems).
 
 𓋹 Creator of the [**Maat**](https://github.com/maatlabs/maat) programming language.
 
