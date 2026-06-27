@@ -2,9 +2,9 @@
 
 👾 I'm **Kobby**.
 
-🦀 An open-source software engineer with a deep passion for Rust and low-level programming (compilers, cryptographic primitives, WebAssembly, and distributed systems).
+🦀 An open-source **Rust** engineer with a deep passion for zero-knowledge (ZK) cryptographic protocols.
 
-𓋹 Creator of the [**Maat**](https://github.com/maatlabs/maat) programming language.
+𓋹 Creator of the [**Maat**](https://github.com/maatlabs/maat) ZK programming language.
 
 📜 I also build and maintain [**ZK Rosetta**](https://github.com/maatlabs/zk-rosetta) catalog and harness.
 
