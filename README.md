@@ -4,7 +4,9 @@
 
 🦀 An open-source **Rust** engineer with a deep passion for zero-knowledge (ZK) cryptographic protocols.
 
-𓋹 Creator of the [**Maat**](https://github.com/maatlabs/maat) ZK programming language.
+🕷️ Creator of the [**Ananse**](https://github.com/maatlabs/ananse) zero-knowledge virtual machine (zkVM).
+
+𓋹 Creator of the [**Maat**](https://github.com/maatlabs/maat) zero-knowledge programming language (zkDSL).
 
 📜 I also build and maintain [**ZK Rosetta**](https://github.com/maatlabs/zk-rosetta) catalog and harness.
 
@@ -12,7 +14,8 @@
 
 ### 🌀 Projects
 
-- [x] [maat](https://github.com/maatlabs/maat) --- Turing-complete programming language for writing zero-knowledge proofs (ZKPs). Backed by the Winterfell STARK prover/verifier.
+- [x] [ananse](https://github.com/maatlabs/ananse) --- WebAssembly-native zero-knowledge virtual machine (zkVM). The proof system is a FRI-based STARK (Plonky3; scalable, transparent, post-quantum secure).
+- [x] [maat](https://github.com/maatlabs/maat) --- Turing-complete programming language for writing zero-knowledge proofs (ZKPs). The proof system is a FRI-based STARK (Winterfell; scalable, transparent, post-quantum secure).
 - [x] [zk-rosetta](https://github.com/maatlabs/zk-rosetta) --- A cross-ecosystem catalog and harness of zero-knowledge protocol specs or proposals, with executable proof that one statement verifies identically across chains.
 - [x] [lc3box](https://github.com/kobby-pentangeli/lc3box) --- Assembler, disassembler, virtual machine, debugger, and compiler for the [_Little Computer 3_ (LC-3)](https://en.wikipedia.org/wiki/Little_Computer_3) assembly language and instruction-set architecture.
 - [x] [chaum-pedersen](https://github.com/kobby-pentangeli/chaum-pedersen-zkp) --- Rust implementation of the Chaum-Pedersen zero-knowledge cryptographic protocol.
