@@ -2,7 +2,7 @@
 
 👾 I'm **Kobby**.
 
-🦀 An open-source **Rust** engineer with a deep passion for zero-knowledge (ZK) cryptographic protocols.
+🦀 I build compilers for distributed, verifiable computation. From zkVMs to tensor programs: compilers for computation that spans machines.
 
 🕷️ Creator of the [**Ananse**](https://github.com/maatlabs/ananse) zero-knowledge virtual machine (zkVM).
 
