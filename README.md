@@ -12,8 +12,8 @@ Exploring ML compiler infrastructure (LLVM/MLIR, ONNX, CUDA/GPU kernels) as the 
 
 ### 🌀 Projects and Open-Source Contributions
 
-- [x] [ananse](https://github.com/maatlabs/ananse) --- WebAssembly-native zero-knowledge virtual machine (zkVM). The proof system is a FRI-based STARK (Plonky3; scalable, transparent, post-quantum secure).
 - [x] [maat](https://github.com/maatlabs/maat) --- Turing-complete programming language for writing zero-knowledge proofs (ZKPs). The proof system is a FRI-based STARK (Winterfell; scalable, transparent, post-quantum secure).
+- [x] [ananse](https://github.com/maatlabs/ananse) --- WebAssembly-native zero-knowledge virtual machine (zkVM). The proof system is a FRI-based STARK (Plonky3; scalable, transparent, post-quantum secure).
 - [x] [zk-rosetta](https://github.com/maatlabs/zk-rosetta) --- A cross-ecosystem catalog and harness of zero-knowledge protocol specs or proposals, with executable proof that one statement verifies identically across chains.
 
 - [x] [lc3box](https://github.com/kobby-pentangeli/lc3box) --- Assembler, disassembler, virtual machine, debugger, and compiler for the [_Little Computer 3_ (LC-3)](https://en.wikipedia.org/wiki/Little_Computer_3) assembly language and instruction-set architecture.
