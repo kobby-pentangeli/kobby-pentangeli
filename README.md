@@ -2,13 +2,11 @@
 
 👾 I'm **Kobby**.
 
-🦀 Compiler and distributed systems engineer working in Rust since 2018. Founder of Maat Labs, where I lead the open-source development of Maat, a Turing-complete programming language for zero-knowledge proofs, and Ananse, a WebAssembly-native zkVM, both proving with FRI-based STARKs. Earlier work includes a peer-to-peer broadcast protocol (BlockP2P) for a consortium blockchain, a Rust port of Polywrap’s WebAssembly runtime, and Web3 infrastructure at dOrg. Exploring ML compiler infrastructure (MLIR, ONNX, GPU kernels) as the next direction for this work.
+🦀 Compiler and distributed systems engineer working in Rust since 2018. Founder of Maat Labs, where I lead the open-source development of Maat, a Turing-complete programming language for zero-knowledge proofs, and Ananse, a WebAssembly-native zkVM, both proving with FRI-based STARKs.
 
-🕷️ Creator of the [**Ananse**](https://github.com/maatlabs/ananse) zero-knowledge virtual machine (zkVM).
+Earlier work includes a peer-to-peer broadcast protocol (BlockP2P) for a consortium blockchain, a Rust port of Polywrap’s WebAssembly runtime, and Web3 infrastructure at dOrg.
 
-𓋹 Creator of the [**Maat**](https://github.com/maatlabs/maat) zero-knowledge programming language (zkDSL).
-
-📜 I also build and maintain [**ZK Rosetta**](https://github.com/maatlabs/zk-rosetta) catalog and harness.
+Exploring ML compiler infrastructure (LLVM/MLIR, ONNX, CUDA/GPU kernels) as the next direction for this work.
 
 <br>
 
